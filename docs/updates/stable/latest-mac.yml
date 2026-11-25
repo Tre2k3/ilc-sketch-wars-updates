@@ -1,0 +1,26 @@
+version: 0.3.27
+files:
+  - url: https://github.com/Tre2k3/ilc-sketch-wars-updates/releases/download/v0.3.27/Sketch-Wars-0.3.27-mac-arm64.zip
+    sha512: OAMr9+pc54GLZQ42OLlNy8KDscZ0ESDlcUIWCgqbKwSW9zsDA68blTxeRYujsZ7YLob+02gJHO1361okZgV9BA==
+    size: 311578663
+  - url: https://github.com/Tre2k3/ilc-sketch-wars-updates/releases/download/v0.3.27/Sketch-Wars-0.3.27-mac-x64.zip
+    sha512: uFeXUvDs3IQgRtU4oV8EpgsGEfdDaFuuIvzsTYvR5IoXP5tHLpNPVC35Vk6EZA1CWYVlWkQSO0lbJWMMIW2NIQ==
+    size: 316303461
+path: https://github.com/Tre2k3/ilc-sketch-wars-updates/releases/download/v0.3.27/Sketch-Wars-0.3.27-mac-arm64.zip
+sha512: OAMr9+pc54GLZQ42OLlNy8KDscZ0ESDlcUIWCgqbKwSW9zsDA68blTxeRYujsZ7YLob+02gJHO1361okZgV9BA==
+releaseDate: '2026-11-25T18:11:56.000Z'
+releaseNotes: |-
+  In Living Color: Sketch Wars v0.3.27, a free, unofficial fan-made fighting game.
+  
+  - Martin-style move list with your real keys; every special has a simple Modern input
+  - The new soundtrack, the In Living Color song on the title card, Keenen's MESSAGE!, and intro, fight and win lines for every fighter
+  - Lose a round and your next teammate steps in
+  - Online Versus with a room code (Windows, Mac, Linux and the web version)
+  - In-app updates
+  - Fire Marshal Bill's new fire art; many combo and mode fixes
+  
+  Windows: run the Setup, or unzip the windows-x64 zip and open "In Living Color Sketch Wars.exe". The app is unsigned, so Windows may show "Windows protected your PC": choose More info, then Run anyway.
+  Mac: unzip, then right-click the app and choose Open. If macOS says it is damaged, run: xattr -cr "/Applications/In Living Color Sketch Wars.app"
+  Linux: make the AppImage executable and run it.
+  
+  Not affiliated with, endorsed by, or connected to In Living Color, its creators, network or cast.
